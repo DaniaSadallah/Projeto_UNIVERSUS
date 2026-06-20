@@ -1,6 +1,6 @@
                                                                       🎮 Universus
 
-## 📌 Visão Geral do Projeto
+📌 Visão Geral do Projeto
 
 O **Universus** é uma plataforma gamificada inspirada no *Show do Milhão*. O sistema permite que professores criem questões de acordo com níveis de dificuldade, enquanto os alunos participam respondendo perguntas e ganham moedas virtuais.
 
@@ -8,22 +8,22 @@ Essas moedas podem ser utilizadas para personalizar avatares e acessar recursos 
 
 ---
 
-## 🎯 Objetivo do Projeto
+🎯 Objetivo do Projeto
 
 O objetivo do Universus é aumentar o engajamento dos alunos com os estudos por meio de uma experiência gamificada, incentivando a participação ativa e tornando o aprendizado mais interativo e motivador.
 
 ---
 
-## 👥 Público-Alvo
+👥 Público-Alvo
 
 - Alunos  
 - Professores  
 
 ---
 
-## ⚙️ Regras de Negócio
+⚙️ Regras de Negócio
 
-### 📊 Progressão das perguntas
+📊 Progressão das perguntas
 As questões são organizadas por nível de dificuldade:
 - Fácil  
 - Médio  
@@ -34,7 +34,7 @@ O aluno pode continuar jogando mesmo após erros. O sistema pode ajustar dinamic
 
 ---
 
-### 💰 Sistema de Recompensas
+💰 Sistema de Recompensas
 
 - Fácil: +5 moedas  
 - Médio: +10 moedas  
@@ -52,7 +52,7 @@ O aluno pode continuar jogando mesmo após erros. O sistema pode ajustar dinamic
 
 ---
 
-### 🛍️ Economia do Jogo
+🛍️ Economia do Jogo
 
 As moedas podem ser utilizadas para:
 - Customizar avatares  
@@ -62,9 +62,9 @@ As moedas podem ser utilizadas para:
 
 ---
 
-## 🧑‍🏫 Funcionalidades do Sistema
+🧑‍🏫 Funcionalidades do Sistema
 
-### 👨‍🏫 Professor
+👨‍🏫 Professor
 - Criar quiz  
 - Gerenciar quiz (editar/excluir)  
 - Criar questões  
@@ -75,7 +75,7 @@ As moedas podem ser utilizadas para:
 
 ---
 
-### 🎓 Aluno
+🎓 Aluno
 - Criar avatar  
 - Entrar no sistema  
 - Acessar quiz via código ou QR code  
@@ -86,12 +86,10 @@ As moedas podem ser utilizadas para:
 
 ---
 
-## 🧩 Diagrama de Caso de Uso
+🧩 Diagrama de Caso de Uso
 
-O diagrama abaixo representa os atores do sistema e suas interações com a plataforma Universus.
 
-![Diagrama de Caso de Uso](diagrams/caso-de-uso.png)
 
 ---
 
-## 📂 Estrutura do Projeto
+📂 Estrutura do Projeto
