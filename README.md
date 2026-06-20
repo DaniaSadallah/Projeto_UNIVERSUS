@@ -1,4 +1,4 @@
-                                                                      🎮 Universus
+🎮 Universus
 
 📌 Visão Geral do Projeto: O **Universus** é uma plataforma gamificada inspirada no *Show do Milhão*. O sistema permite que professores criem questões de acordo com níveis de dificuldade, enquanto os alunos participam respondendo perguntas e ganham moedas virtuais. Essas moedas podem ser utilizadas para personalizar avatares e acessar recursos dentro da plataforma, tornando o aprendizado mais dinâmico e divertido.
 
