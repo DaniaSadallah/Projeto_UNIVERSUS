@@ -82,6 +82,10 @@ As moedas podem ser utilizadas para:
 
 🧩 Diagrama de Caso de Uso
 
+O diagrama abaixo representa os atores do sistema e suas interações com a plataforma Universus.
+
+
+
 ---
 
 📂 Estrutura do Projeto
