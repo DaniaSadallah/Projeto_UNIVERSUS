@@ -1,26 +1,24 @@
                                                                       🎮 Universus
 
-📌 Visão Geral do Projeto
+📌 Visão Geral do Projeto: O **Universus** é uma plataforma gamificada inspirada no *Show do Milhão*. O sistema permite que professores criem questões de acordo com níveis de dificuldade, enquanto os alunos participam respondendo perguntas e ganham moedas virtuais. Essas moedas podem ser utilizadas para personalizar avatares e acessar recursos dentro da plataforma, tornando o aprendizado mais dinâmico e divertido.
 
-O **Universus** é uma plataforma gamificada inspirada no *Show do Milhão*. O sistema permite que professores criem questões de acordo com níveis de dificuldade, enquanto os alunos participam respondendo perguntas e ganham moedas virtuais.
+### 
 
-Essas moedas podem ser utilizadas para personalizar avatares e acessar recursos dentro da plataforma, tornando o aprendizado mais dinâmico e divertido.
+🎯 Objetivo do Projeto: O objetivo do Universus é aumentar o engajamento dos alunos com os estudos por meio de uma experiência gamificada, incentivando a participação ativa e tornando o aprendizado mais interativo e motivador.
 
+### 
 
-🎯 Objetivo do Projeto
-
-O objetivo do Universus é aumentar o engajamento dos alunos com os estudos por meio de uma experiência gamificada, incentivando a participação ativa e tornando o aprendizado mais interativo e motivador.
-
-
-👥 Público-Alvo
+👥 Público-Alvo:
 
 - Alunos  
 - Professores  
 
+### 
 
 ⚙️ Regras de Negócio
 
-📊 Progressão das perguntas
+📊 Progressão das perguntas: 
+
 As questões são organizadas por nível de dificuldade:
 - Fácil  
 - Médio  
@@ -29,23 +27,27 @@ As questões são organizadas por nível de dificuldade:
 
 O aluno pode continuar jogando mesmo após erros. O sistema pode ajustar dinamicamente a sequência de perguntas conforme o desempenho.
 
+### 
 
-💰 Sistema de Recompensas
+💰 Sistema de Recompensas:
 
 - Fácil: +5 moedas  
 - Médio: +10 moedas  
 - Difícil: +20 moedas  
 - Última questão: +100 moedas (bônus adicional)  
 
+### 
 
-### ❌ Sistema de Penalidades
+❌ Sistema de Penalidades:
 
 - Fácil: -2 moedas  
 - Médio: -4 moedas  
 - Difícil: -10 moedas  
 - Última questão: sem penalidade (apenas perde o bônus se errar)  
 
-🛍️ Economia do Jogo
+### 
+
+🛍️ Economia do Jogo:
 
 As moedas podem ser utilizadas para:
 - Customizar avatares  
