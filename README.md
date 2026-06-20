@@ -2,18 +2,18 @@
 
 📌 Visão Geral do Projeto: O **Universus** é uma plataforma gamificada inspirada no *Show do Milhão*. O sistema permite que professores criem questões de acordo com níveis de dificuldade, enquanto os alunos participam respondendo perguntas e ganham moedas virtuais. Essas moedas podem ser utilizadas para personalizar avatares e acessar recursos dentro da plataforma, tornando o aprendizado mais dinâmico e divertido.
 
-### 
+---
 
 🎯 Objetivo do Projeto: O objetivo do Universus é aumentar o engajamento dos alunos com os estudos por meio de uma experiência gamificada, incentivando a participação ativa e tornando o aprendizado mais interativo e motivador.
 
-### 
+---
 
 👥 Público-Alvo:
 
 - Alunos  
 - Professores  
 
-### 
+---
 
 ⚙️ Regras de Negócio
 
@@ -27,7 +27,7 @@ As questões são organizadas por nível de dificuldade:
 
 O aluno pode continuar jogando mesmo após erros. O sistema pode ajustar dinamicamente a sequência de perguntas conforme o desempenho.
 
-### 
+---
 
 💰 Sistema de Recompensas:
 
@@ -36,7 +36,7 @@ O aluno pode continuar jogando mesmo após erros. O sistema pode ajustar dinamic
 - Difícil: +20 moedas  
 - Última questão: +100 moedas (bônus adicional)  
 
-### 
+---
 
 ❌ Sistema de Penalidades:
 
@@ -45,7 +45,7 @@ O aluno pode continuar jogando mesmo após erros. O sistema pode ajustar dinamic
 - Difícil: -10 moedas  
 - Última questão: sem penalidade (apenas perde o bônus se errar)  
 
-### 
+---
 
 🛍️ Economia do Jogo:
 
@@ -78,7 +78,10 @@ As moedas podem ser utilizadas para:
 - Usar loja de customização  
 - Usar dicas durante o quiz  
 
+---
+
 🧩 Diagrama de Caso de Uso
 
+---
 
 📂 Estrutura do Projeto
